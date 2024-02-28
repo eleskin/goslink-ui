@@ -23,5 +23,29 @@
   --color-primary-lighter: #C6C4FF;
   --color-primary-lightest: #E7E7FF;
 
+  --color-green-darkest: #198155;
+  --color-green-base: #23C16B;
+  --color-green-light: #4CD471;
+  --color-green-lighter: #7DDE86;
+  --color-green-lightest: #ECFCE5;
+
+  --color-red-darkest: #D3180C;
+  --color-red-base: #FF5247;
+  --color-red-light: #FF6D6D;
+  --color-red-lighter: #FF9898;
+  --color-red-lightest: #FFE5E5;
+
+  --color-blue-darkest: #0065D0;
+  --color-blue-base: #48A7F8;
+  --color-blue-light: #6EC2FB;
+  --color-blue-lighter: #9BDCFD;
+  --color-blue-lightest: #C9F0FF;
+
+  --color-yellow-darkest: #A05E03;
+  --color-yellow-base: #FFB323;
+  --color-yellow-light: #FFC462;
+  --color-yellow-lighter: #FFD188;
+  --color-yellow-lightest: #FFEFD7;
+
   /* End Color Variables */
 }
