@@ -48,4 +48,21 @@
   --color-yellow-lightest: #FFEFD7;
 
   /* End Color Variables */
+
+  /* Start Transition Variables */
+
+  --transition-base: all 0.2s linear;
+
+  /* End Transition Variables */
+}
+
+* {
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  padding: 16px;
 }
